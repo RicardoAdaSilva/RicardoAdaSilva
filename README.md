@@ -13,7 +13,7 @@ I am a junior developer focused on creating **web systems**, with a growing emph
     <img src="https://img.shields.io/badge/GitHub-RicardoAdaSilva-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/rick015_/">
-    <img src="https://img.shields.io/badge/Instagram-@rick025_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@rick015_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
 </p>
