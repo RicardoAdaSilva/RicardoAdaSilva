@@ -1,4 +1,4 @@
-# Hi everyone👋, I'm Ricardo Silva 
+# Hi everyone👋, I'm Ricardo da Silva 
 
  **Junior Software Engineer**  
  Brazilian 
